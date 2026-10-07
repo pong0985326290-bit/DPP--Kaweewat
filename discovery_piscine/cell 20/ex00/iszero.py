@@ -1,6 +1,6 @@
-number = int(input("? "))
+x = int(input("Enter x: "))
 
-if number == 0:
-    print("This number is equal to zero.")
+if x == 0:
+    print("Zero")
 else:
-    print("This number is different from zero.")
+    print("Not zero")
