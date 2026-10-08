@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 x = int(input(" Enter x:"))
 
 if x == 0 :
