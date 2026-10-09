@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-usr_input = str(input("Please give me a number : ").strip())
+q = str(input("Please give me a number : ").strip())
 
-number = float(usr_input)
+number = float(q)
 
 
 if number.is_integer():
